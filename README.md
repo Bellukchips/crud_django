@@ -1,0 +1,7 @@
+# crud_django
+
+CRUD DJANGO PYTHON
+CRUD DATA PEGAWAI
+CRUD SEDERHANA
+
+by:Lukman
